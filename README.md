@@ -1,7 +1,7 @@
 
 # Laptop Price Prediction Model
 
-Hey there! Welcome to my Laptop Price Predictor project! This is a fun machine learning project I worked on to predict how much a laptop should cost based on its specs like the brand, processor type, RAM size, storage capacity, and more. It's all done in a Jupyter Notebook, so you can see everything step by step.
+Hey there! Welcome to my Laptop Price Predictor project! This is a fun machine learning project I worked on to predict how much a laptop should cost based on its specs like the brand, processor type, RAM size, storage capacity, and more. 
 
 
 
@@ -50,7 +50,7 @@ Make sure you have the following installed:
    ```bash
    jupyter notebook
 
-  
+The entire project is all done in the jupyter notebook so you can see the entire process step by step.
 
 
 
